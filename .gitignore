@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#this file is too large for github
+
+flatiron_school_mod_7_project_elt_notebook.ipynb
